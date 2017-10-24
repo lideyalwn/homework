@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+z = 0x7FFF.cpp
+z = 0x7FFF.cpp
+z = 0x7FFF.cpp
+y = ox7FFF.cpp

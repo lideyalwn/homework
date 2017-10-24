@@ -2,6 +2,6 @@
 main()
 {
 	char*y;
-	y = "0x7FFF";
+	y = "0xFFF";
 	printf("y = %s\n",y);
  } 
